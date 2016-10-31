@@ -7,7 +7,7 @@ Electromagnetic scattering of plane wave by a sphere (Mie scattering). The spher
 A C++ compiler supporting C++11. The author tested the code using the gcc version 6.2.0.
 
 ### Usage:
-1. Modify the compilation parameters in "Makefile" according to your environmIn particular,please change the "CXX" (= C++ complier).
+1. Modify the compilation parameters in "Makefile" according to your environment. In particular,please change the "CXX" (= C++ complier).
 2. Specify the input parameters in "gmie_call.cpp".
 3. Compilation and linking are performed by
     make
